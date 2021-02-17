@@ -23,5 +23,10 @@ namespace WindowsFormsApp2
             MessageBox.Show("master分支第一次修改");
             MessageBox.Show("添加 SwicaseJia 分支");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("在 master 分支上添加按钮");
+        }
     }
 }
