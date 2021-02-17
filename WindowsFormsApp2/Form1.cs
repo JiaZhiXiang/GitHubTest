@@ -20,6 +20,7 @@ namespace WindowsFormsApp2
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("master分支");
+            MessageBox.Show("master分支第一次修改");
         }
     }
 }
