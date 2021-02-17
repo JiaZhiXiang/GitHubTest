@@ -22,6 +22,7 @@ namespace WindowsFormsApp2
             MessageBox.Show("master分支");
             MessageBox.Show("master分支第一次修改");
             MessageBox.Show("添加 SwicaseJia 分支");
+            MessageBox.Show("这是我在远程仓中自己添加的");
         }
 
         private void button2_Click(object sender, EventArgs e)
