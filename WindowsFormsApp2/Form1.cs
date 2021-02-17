@@ -22,5 +22,10 @@ namespace WindowsFormsApp2
             MessageBox.Show("master分支");
             MessageBox.Show("master分支第一次修改");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("这是在 SwicaseJia 分支上做的修改");
+        }
     }
 }
