@@ -28,5 +28,15 @@ namespace WindowsFormsApp2
         {
             MessageBox.Show("在 master 分支上添加按钮");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("这是在 SwicaseJia 分支上做的修改");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("新添加的 iss53 分支");
+        }
     }
 }
