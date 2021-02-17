@@ -28,7 +28,11 @@ namespace WindowsFormsApp2
             MessageBox.Show("这是我在远程仓中自己添加的第五段代码");
             MessageBox.Show("2021年2月17日20:39:11");
             MessageBox.Show("2021年2月17日20:43:44");
+
             MessageBox.Show("本地仓第一次提交");
+            //同意合并
+            MessageBox.Show("远程仓分支");
+
         }
 
         private void button2_Click(object sender, EventArgs e)
