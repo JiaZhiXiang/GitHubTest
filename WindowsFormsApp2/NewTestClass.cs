@@ -12,6 +12,6 @@ namespace WindowsFormsApp2
     /// </summary>
     class NewTestClass
     {
-
+        public static string str = string.Empty;
     }
 }
