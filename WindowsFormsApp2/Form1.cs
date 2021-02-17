@@ -24,6 +24,7 @@ namespace WindowsFormsApp2
             MessageBox.Show("添加 SwicaseJia 分支");
             MessageBox.Show("这是我在远程仓中自己添加的");
             MessageBox.Show("这是我在远程仓中自己添加的第二段代码");
+            MessageBox.Show("这是我在远程仓中自己添加的第三段代码");
         }
 
         private void button2_Click(object sender, EventArgs e)
