@@ -14,5 +14,6 @@ namespace WindowsFormsApp2
     {
         public static string str = string.Empty;
         public static string str1 = string.Empty;
+        public static string str2 = "master 第一次添加 2021年2月18日10:56:02";
     }
 }
